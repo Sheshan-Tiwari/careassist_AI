@@ -5,7 +5,7 @@ CareAssist AI is an AI-enabled healthcare assistant chatbot designed to support 
 
 
 🚀 Live Demo
-🔗 https://164.52.199.40:3000/
+🔗 Not Available.
 
 
 ⚠️ Note: This prototype is hosted on a self-signed HTTPS server. You may need to bypass browser warnings to access it.
